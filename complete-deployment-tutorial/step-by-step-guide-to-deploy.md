@@ -39,11 +39,11 @@ Kubernetesand n8n require a series of configuration files. You can also clone th
 
 Clone therepository with the following command:
 
-````git clone https://github.com/afraz-hassan/Deploying-n8n-on-Azure-Kubernetes-Service/kube-manifest.git````
+``` git clone https://github.com/afraz-hassan/Deploying-n8n-on-Azure-Kubernetes-Service.git   ```
 
 And change directory:
 
-````cd kubernetes-manifest````
+````Deploying-n8n-on-Azure-Kubernetes-Service\complete-deployment-tutorial\kube-menifest````
 
 **FeelCompletely free to edit the yaml files in the cloned repository according toyour requirements.**
 
